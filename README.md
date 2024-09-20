@@ -1,8 +1,8 @@
 # Noop Packages
-A list of a lot of the noop packages on NPM and their differences. If you find any more, please file an issue on the GitHub!
+A list of a lot of the noop packages on NPM and their differences. If you find any more, please file an issue!
+If you need help deciding which one to use, just file an issue with your exact context and everything and we'll answer.
 
-
-Note: noop5 is not included because it only works in TypeScript, and co-noop is not included because it's a generator function.
+Note: noop5 is not included because it only works in TypeScript, and co-noop is not included because it's a generator function, and none is not included even though it's a noop, because it's meant for performance and not to be used as a noop.
 
 
 | Package | Type                   | Usage | Motto | Additional Exported Values    | Notes |
